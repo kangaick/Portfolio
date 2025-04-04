@@ -1,0 +1,110 @@
+<DOCTYPE html>
+<html lang="en"
+    <head>
+        <meta charset="UTF-8">
+        <title> Portfolio</title>
+
+        <style>
+            body {
+                background: #fff9e6;
+                
+            }
+    
+            
+        </style>
+    </head>
+
+    <body>
+        <h1>Caroline Kangai's Portfolio</h1>
+
+        <a href="https://imgbb.com/"><img src="https://i.ibb.co/qPBkZkJ/passport-photo.jpg" alt="passport-photo" border="0"border="0" style="max-width: 300px; height: auto;" ></a><br /><a target='_blank' href='https://imgbb.com/'>My Image</a><br />
+            <br>
+            <p>My name is Caroline and I am an enthusuatic cybersecurity student majoring in
+                 mobile aplication testing cloud security and AI security. 
+                 I enjoy coding, researching about malware analysis as well as doing
+                mock cyber attacks.
+                I believe that cybersecurity is very crucial in this digital aid therefore I purpose to uphold
+                the CIA triad and keep information safe. 
+                I enjoy learning new things everyday as well as collaborating with individuals from different
+                or even the same space as me.
+                Once again I am open to collaboration and look forward to hearing from you.
+            </p>
+            <br>
+            <h4>My educational back ground is:</h4>
+        
+            <dl>
+                <dt>Diploma in Cybersecurity</dt>
+                <dd>College of Human Resource and Management</dd>
+                <dd class="date">01/2022 - Present</dd>
+        
+                <dt>Ethical Hacking Bootcamp</dt>
+                <dd>Techcamp</dd>
+                <dd class="date">10/2022 - 11/2022</dd>
+        
+                <dt>Diploma in Psychology</dt>
+                <dd>Africa International University</dd>
+                <dd class="date">01/2019 - 11/2020</dd>
+        
+                <dt>High School Diploma</dt>
+                <dd>Moi Girls School Nairobi</dd>
+                <dd class="date">02/2014 - 11/2017</dd>
+            </dl>
+
+            <br>
+            <hr>
+            <h4>Skills</h4>
+
+            <ul>
+                <li>
+                    <p class="category">Programming Languages:</p>
+                    <p>Python, C, Bash, HTML, CSS</p>
+                </li>
+                
+                <li>
+                    <p class="category">Computer Software/Frameworks:</p>
+                    <p>Microsoft Office</p>
+                </li>
+        
+                <li>
+                    <p class="category">Languages:</p>
+                    <p>English, Swahili</p>
+                </li>
+        
+                <li>
+                    <p class="category">Penetration Testing:</p>
+                    <p>Ethical Hacking</p>
+                </li>
+        
+                <li>
+                    <p class="category">Network Security</p>
+                </li>
+            </ul>
+            <br>
+            <hr>
+
+            <h4>Projects</h4>
+    <p>
+        Check out my Python Calculator project on GitHub: 
+        <a href="https://github.com/kangaick/python-calculator/blob/master/calculator.py" target="_blank">Python Calculator</a>
+    </p>
+         
+    <hr>
+    <br>
+        <a href="https://drive.google.com/file/d/15rg_GAfBMDXGLTvH8hzAGHhwpQTn2szO/view?usp=sharing"download="resume.pdf">Download my Resume</a>
+            <br>
+    
+            <p>
+                Contact me on my email: kangaikirimi@gmail.com
+            </p>
+        
+
+        <p>Reach me on: <strong>254757431198</strong></a>
+            <hr>
+            <br>
+            <footer>
+                <p>&copy; 2025 Caroline Kangai. All rights reserved.</p>
+            </footer>
+    </body>
+    
+
+</html>
